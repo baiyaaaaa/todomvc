@@ -59,7 +59,7 @@ Sam is an Engineer at [MojoTech](http://mojotech.com) who is driven by an endles
 #### [Arthur Verschaeve](https://github.com/arthurvr) - Developer
 
 <img align="left" width="40" height="40" src="https://en.gravatar.com/avatar/e34daab0d2e344219adb5234198269c5?size=40">
-Arthur is an open-source fanboy from Belgium. He is passionated about developer tooling and all things JavaScript.
+Arthur is an open-source fanboy from Belgium. He is passionate about developer tooling and all things JavaScript.
 
 #### [Gianni Chiappetta](https://github.com/gf3) - Logo designer
 
@@ -73,6 +73,8 @@ Gianni is a programmer and designer currently working as the Chief Rigger at Met
 TodoMVC has been called many things including the 'Speed-dating' and 'Rosetta Stone' of MV\* frameworks. Whilst we hope that this project is able to offer assistance in deciding what frameworks are worth spending more time looking at, remember that the Todo application offers a limited view of what a framework may be capable of.
 
 It is meant to be used as a gateway to reviewing how a basic application using a framework may be structured and we heavily recommend investing time researching a solution in more depth before opting to use it.
+
+Also, please keep in mind that TodoMVC is not the perfect way to compare the size of different frameworks. We intentionally use the unminified versions to make reading the source code easier.
 
 
 ## Getting Involved
